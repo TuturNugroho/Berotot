@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+  color: white;
+}
+nav {
+  background-color: black;
+}
+.nav-item {
+  margin: 0 20px 0 20px;
+  text-align: center;
+}
+
+.hero {
+  margin-top: 70px;
+  width: max-content;
+}
+.hero h3 {
+  font-size: 80px;
+  color: black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+.hero h1 {
+  font-size: 100px;
+  color: white;
+}
+/* .hero img {
+  height: 400px;
+} */
+.brand {
+  background-color: #e38b29;
+  margin-top: -15px;
+}
+.program .card {
+  position: absolute;
+  border: none;
+  background-color: none;
+  box-shadow: 0 4px 8px 0 rgba(151, 151, 151, 0.464);
+}
+.program .card h5 {
+  color: black;
+}
+.program .card-text {
+  color: black;
+}
+.program .card-text a {
+  align-items: center;
+}
+
+.program .card-body {
+  background-color: #181818;
+}
+.program .card-body:hover {
+  background-color: #e38b29;
+}
+
+.program .card-body h5 {
+  color: white;
+}
+.program .card-body p {
+  color: white;
+}
+.card-body a {
+  color: #fdeedc;
+  text-decoration: none;
+}
+.testimoni {
+  margin-top: 400px;
+}
+.card-img-top {
+  background-color: black;
+}
+
+.team .card {
+  width: 18rem;
+  background-color: black;
+  text-align: center;
+}
+
+.program h3 {
+  font-size: 50px;
+  color: black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+.testimoni h3 {
+  font-size: 50px;
+  color: black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+.team h3 {
+  font-size: 50px;
+  color: black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+footer {
+  background-color: #e38b29;
+  color: white;
+}
